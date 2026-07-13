@@ -10,7 +10,7 @@ Throughout the internship, I completed a series of assignments and projects desi
 
 ## 📌 Internship Details
 
-* **Organization:** QSpiders QSkill
+* **Organization:** QSkill
 * **Internship:** Artificial Intelligence & Machine Learning (AI/ML)
 * **Duration:** 1 Month
 * **Mode:** Online
